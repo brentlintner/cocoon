@@ -1,6 +1,6 @@
 {
   "name": "cocoon",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mutate getters (that return functions) into mockable/spyable functions.",
   "homepage": "",
   "author": {
