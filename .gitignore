@@ -1,0 +1,9 @@
+# dev tools
+DS_STORE
+tags
+.vim.custom
+.npmdebug
+node_modules
+bower_modules
+public
+coverage

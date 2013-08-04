@@ -1,0 +1,35 @@
+{
+  "name": "cocoon",
+  "version": "0.0.1",
+  "description": "Mutate getters (that return functions) into mockable/spyable functions.",
+  "homepage": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "?",
+      "url": "?"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brentlintner/cocoon.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "police": "0.3.2",
+    "jake": "0.6.10",
+    "istanbul": "0.1.43",
+    "jshint": "2.1.9",
+    "mocha": "1.12.0",
+    "chai": "1.7.2",
+    "sinon": "1.7.3",
+    "sinon-chai": "2.4.0",
+    "colors": "~0.6.1",
+    "express": "~3.3.4"
+  }
+}
