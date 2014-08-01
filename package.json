@@ -2,18 +2,13 @@
   "name": "cocoon",
   "version": "0.1.0",
   "description": "Mutate getters (that return functions) into mockable/spyable functions.",
-  "homepage": "https://npmjs.org/package/cocoon",
+  "homepage": "https://github.com/brentlintner/cocoon",
   "author": {
     "name": "Brent Lintner",
     "email": "brent.lintner@gmail.com",
     "url": "http://brentlintner.ca"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/brentlintner/cocoon/blob/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:brentlintner/cocoon.git"
