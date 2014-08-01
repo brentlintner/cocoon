@@ -51,3 +51,7 @@ However.. if:
 ```
 
 ..Nope. Not going to happen.
+
+## Versioning
+
+This project ascribes to [semantic versioning](http://semver.org).
