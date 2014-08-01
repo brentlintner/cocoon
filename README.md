@@ -1,6 +1,6 @@
 # [Cocoon](https://npmjs.org/package/cocoon)
 
-![](https://david-dm.org/brentlintner/cocoon.png)
+[![Dependency Status](https://david-dm.org/brentlintner/cocoon.svg)](https://david-dm.org/brentlintner/cocoon)
 
 A small utility module for wrapping property getters within functions.
 
