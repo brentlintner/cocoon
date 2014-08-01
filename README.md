@@ -1,5 +1,7 @@
 # [Cocoon](https://npmjs.org/package/cocoon)
 
+![https://david-dm.org/brentlintner/cocoon.png]()
+
 A small utility module for wrapping property getters within functions.
 
 It is useful as a TDD helper for creating mockable/spyable methods on top of another
